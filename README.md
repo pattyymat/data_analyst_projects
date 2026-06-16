@@ -101,11 +101,11 @@ My goal is to combine my technology background with data analytics skills to hel
 
 ## 📫 Contact
 
-**LinkedIn:** Add your LinkedIn URL
+**LinkedIn:** https://www.linkedin.com/in/patricia-matute-espinoza/
 
-**GitHub:** Add your GitHub URL
+**GitHub:** https://github.com/pattyymat/
 
-**Email:** Add your professional email
+**Email:** pattyymat@gmail.com
 
 ---
 
