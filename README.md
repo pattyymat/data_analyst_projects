@@ -2,9 +2,9 @@
 
 ## About Me
 
-Technology professional with experience in IT Infrastructure and Network Administration, currently specializing in Data Analytics.
+Soy una profesional de tecnología con experiencia en infraestructura TI y administración de redes, actualmente especializándome en Análisis de Datos.
 
-My background in technology has given me strong analytical, problem-solving, and process-improvement skills. I am now applying those strengths to data analysis, using Python, SQL, and data visualization tools to transform data into actionable insights.
+Mi objetivo es combinar mi experiencia técnica con habilidades analíticas para transformar datos en información que apoye la toma de decisiones de negocio.
 
 ---
 
@@ -23,6 +23,7 @@ My background in technology has given me strong analytical, problem-solving, and
 - SQL
 - Pandas
 - NumPy
+- Git & GitHub
 
 ### Visualization
 - Matplotlib
@@ -31,58 +32,15 @@ My background in technology has given me strong analytical, problem-solving, and
 
 ---
 
-## 📁 Featured Projects
+## 📁 Projects
+### 📱 Análisis de Clientes y Uso de Servicios
+Segmentación de clientes y análisis de patrones de consumo.
 
-### 🚦 Urban Mobility and Economic Productivity
+### 🚦 Movilidad Urbana y Productividad Económica
+Análisis de la relación entre congestión vehicular y productividad económica.
 
-**Objective:**
-
-Analyze the relationship between urban traffic congestion and economic productivity across Latin American cities.
-
-**Key Activities:**
-- Data cleaning and preparation
-- Missing value treatment
-- Data integration from multiple sources
-- Exploratory Data Analysis (EDA)
-- Correlation and trend analysis
-- Visualization of urban and economic indicators
-
-**Tools:**
-- Python
-- Pandas
-- Matplotlib
-- Seaborn
-
-**Skills Demonstrated:**
-- Data Wrangling
-- Data Visualization
-- Analytical Thinking
-- Insight Generation
-
----
-
-### 🛒 MercadoLibre Funnel and Conversion Analysis
-
-**Objective:**
-
-Analyze user behavior throughout the e-commerce conversion funnel and measure conversion rates by country.
-
-**Key Activities:**
-- SQL query development using CTEs
-- Funnel construction from user events
-- Conversion rate calculations
-- User segmentation by country
-- Purchase funnel performance analysis
-
-**Tools:**
-- SQL
-
-**Skills Demonstrated:**
-- SQL Querying
-- Funnel Analysis
-- KPI Calculation
-- User Behavior Analytics
-- Business Metrics Interpretation
+### 🛒 Embudo de Conversión y Retención
+Análisis SQL del comportamiento de usuarios y conversiones.
 
 ---
 
@@ -95,8 +53,6 @@ I am seeking opportunities as:
 - Reporting Analyst
 - Junior Data Analyst
 
-My goal is to combine my technology background with data analytics skills to help organizations make informed decisions through data.
-
 ---
 
 ## 📫 Contact
@@ -106,7 +62,3 @@ My goal is to combine my technology background with data analytics skills to hel
 **GitHub:** https://github.com/pattyymat/
 
 **Email:** pattyymat@gmail.com
-
----
-
-⭐ Thank you for visiting my portfolio. Feel free to explore the projects and connect with me.
