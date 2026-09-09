@@ -17,3 +17,11 @@ Evaluar el comportamiento de usuarios a lo largo del proceso de compra.
 - Funnel Analysis
 - KPI Calculation
 - Business Analytics
+
+## 👩‍💻 Autora
+
+**Patricia Matute**
+
+Data Analytics | Python | SQL | Power BI
+
+Este proyecto forma parte de mi portafolio de proyectos de análisis de datos.

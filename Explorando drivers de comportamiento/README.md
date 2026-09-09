@@ -6,8 +6,6 @@ Analizar qué factores del comportamiento de los clientes están más fuertement
 
 El análisis tiene un enfoque **correlacional y exploratorio**: busca identificar relaciones entre variables de comportamiento y el ingreso anual, sin interpretar las asociaciones como relaciones de causa y efecto.
 
-> **Importante:** correlación ≠ causalidad.
-
 ## 📂 Dataset utilizado
 
 **`novaretail_comportamiento_clientes_2024.csv`**
@@ -88,41 +86,6 @@ Estos resultados describen asociaciones observadas en los datos; no permiten est
 - Jupyter Notebook
 - Google Colab
 
-## ▶️ Cómo ejecutar el notebook
-
-### Google Colab
-
-1. Abre Google Colab.
-2. Selecciona **Archivo → Subir cuaderno**.
-3. Sube `S8_Student_Version_Project_NovaRetail.ipynb`.
-4. Sube `novaretail_comportamiento_clientes_2024.csv`.
-5. Revisa la ruta utilizada para cargar el CSV.
-6. Ejecuta las celdas en orden.
-
-El notebook originalmente utiliza:
-
-```python
-df = pd.read_csv("/datasets/novaretail_comportamiento_clientes_2024.csv")
-```
-
-En Google Colab puede ser necesario modificar esta ruta según la ubicación del archivo.
-
-### Jupyter Notebook
-
-Instala las dependencias:
-
-```bash
-pip install pandas numpy matplotlib seaborn scipy jupyter
-```
-
-Ejecuta:
-
-```bash
-jupyter notebook
-```
-
-Abre `S8_Student_Version_Project_NovaRetail.ipynb` y ejecuta las celdas secuencialmente.
-
 ## 🔄 Guía breve de reproducción
 
 1. Descargar el notebook.
@@ -137,12 +100,61 @@ Abre `S8_Student_Version_Project_NovaRetail.ipynb` y ejecuta las celdas secuenci
 10. Reproducir las asociaciones punto-biserial y V de Cramér.
 11. Revisar las conclusiones, limitaciones y próximos pasos.
 
-## ⚠️ Limitaciones
+## 💡 Habilidades demostradas
 
-- Correlación no implica causalidad.
-- La fuerte correlación entre `compras_mes` e `ingreso_anual` puede implicar colinealidad.
-- Pueden existir variables no medidas, como promociones, valor promedio de compra, antigüedad del cliente o estacionalidad.
-- Los resultados corresponden al conjunto de datos analizado y podrían variar en otros periodos o poblaciones.
+### 🐍 Análisis con Python
+
+* Uso de **Pandas y NumPy** para exploración, preparación y análisis de datos.
+* Manipulación de DataFrames y selección de variables.
+* Conversión y validación de tipos de datos.
+* Cálculo de estadísticas descriptivas.
+
+### 🧹 Limpieza y preparación de datos
+
+* Revisión de la estructura y calidad del dataset.
+* Identificación y validación de valores faltantes.
+* Tratamiento de variables numéricas, binarias y categóricas.
+* Preparación de los datos para el análisis estadístico.
+
+### 🔎 Análisis Exploratorio de Datos (EDA)
+
+* Análisis de distribuciones y estadísticos descriptivos.
+* Exploración de relaciones entre variables.
+* Identificación de patrones y posibles relaciones relevantes para el negocio.
+* Análisis de variables de comportamiento de clientes.
+
+### 📊 Análisis estadístico
+
+* Selección de métodos estadísticos de acuerdo con el tipo de variables.
+* Aplicación e interpretación de **correlación de Pearson**.
+* Aplicación e interpretación de **correlación de Spearman**.
+* Aplicación de **correlación punto-biserial**.
+* Aplicación e interpretación de **V de Cramér** para variables categóricas.
+* Interpretación de la intensidad de las asociaciones.
+
+### 📈 Visualización de datos
+
+* Creación de **heatmaps** para analizar correlaciones.
+* Uso de **scatterplots** para explorar relaciones entre variables.
+* Utilización de visualizaciones como apoyo para la interpretación de resultados.
+
+### 💼 Pensamiento analítico y de negocio
+
+* Traducción de resultados estadísticos en insights comprensibles para negocio.
+* Identificación de variables asociadas al ingreso anual.
+* Diferenciación entre **correlación y causalidad**.
+* Identificación de posibles problemas de colinealidad.
+* Reconocimiento de limitaciones del análisis.
+* Formulación de recomendaciones y próximos pasos a partir de los resultados.
+
+### 🔄 Reproducibilidad
+
+* Desarrollo de un análisis estructurado y reproducible.
+* Documentación del proceso desde la exploración inicial hasta las conclusiones.
+* Uso de un flujo de trabajo completo:
+
+**Datos → Limpieza → EDA → Análisis estadístico → Visualización → Insights → Recomendaciones**
+
 
 ## 👩‍💻 Autora
 

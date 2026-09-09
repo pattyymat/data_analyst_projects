@@ -60,6 +60,10 @@ Para reproducir los resultados:
 - Data Visualization
 - Business Insight Generation
 
-## Autor
+## 👩‍💻 Autora
 
 **Patricia Matute**
+
+Data Analytics | Python | SQL | Power BI
+
+Este proyecto forma parte de mi portafolio de proyectos de análisis de datos.
